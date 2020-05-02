@@ -2,7 +2,6 @@
 #pragma once
 
 #include <stdio.h>
-#include "node.h"
 
 struct BST
 {
