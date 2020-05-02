@@ -8,3 +8,10 @@ struct BST
 {
     Node* root;
 };
+
+struct Node
+{
+    int key;
+    Node* l_child;
+    Node* r_child;
+};
